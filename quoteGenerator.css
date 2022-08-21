@@ -1,0 +1,27 @@
+
+h2 {
+    margin-left: 32%;
+}
+p{
+    font-size: 20px;
+    display:inline-block;
+    justify-content: flex-end;
+}
+
+.container {
+    height: 20rem;
+    width: 45%;
+    margin: 2% 10% 10% 27%;
+    background-color: rgb(122, 122, 241);
+    box-sizing: border-box;
+    padding:5%;
+}
+
+.btn{
+    align-items: center;
+    margin: 30% 32%;
+    border: none;
+    height:2rem;
+    width:25%;
+    
+}
